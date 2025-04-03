@@ -1,6 +1,6 @@
 ### ✅ Final `README.md` for Your Repo:
 
-# 🧠 Two-Pass Linker – OS Lab 1
+# 🧠 Two-Pass Linker – C Programming Language
 
 This project implements a **Two-Pass Linker** in C, as part of the Operating Systems course. It processes an input file that represents modules with symbol definitions, use lists, and instruction sets, and generates a **symbol table** and **memory map**, handling errors and warnings along the way.
 
@@ -112,11 +112,5 @@ This implementation scored **100/100** using the provided grading scripts.
 
 Varad Suryavanshi  
 [GitHub Profile](https://github.com/varad-suryavanshi)
-
----
-
-## 📝 License
-
-This project is part of coursework and is for educational use only.
 
 ---
