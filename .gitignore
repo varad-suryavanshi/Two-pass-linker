@@ -1,0 +1,14 @@
+# Compiled binaries
+linker
+*.o
+*~
+
+# Logs and grading output
+*.log
+LOG.txt# Ignore compiled files and temporary files
+linker
+*.o
+*~
+*.log
+
+
